@@ -15,13 +15,13 @@ This is a very simple implementation of Tic-Tac-Toe in Python. The game allows t
 ## Getting Started
 
 Clone this repository to your local machine or download the ZIP file.
-```git clone https://github.com/your-username/tic-tac-toe.git```
+```git clone https://github.com/suvanbanerjee/TicTacToe.git```
 
 Navigate to the project directory.
-```cd tic-tac-toe```
+```cd TicTacToe```
 
 Run the game.
-```python3 tic_tac_toe.py```
+```python3 main.py```
 
 ## How to Play
 Follow the on-screen instructions to play the game simple !
